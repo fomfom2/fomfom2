@@ -3,7 +3,7 @@
 
 Meu nome é Afonso
 
-- Estou estudando alura
+- Estou estudando [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compatilhamento dos meus projetos desenvolvidos
 
